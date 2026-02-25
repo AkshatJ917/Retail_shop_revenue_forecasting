@@ -3,6 +3,7 @@ Pandas
 Scikit Learn
 Matplotlib
 Seaborn
-Xgboost
-SMOTE
+Statsmodels
+pmdarima
+
 
