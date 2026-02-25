@@ -1,0 +1,8 @@
+Jupyter Notebook
+Pandas
+Scikit Learn
+Matplotlib
+Seaborn
+Xgboost
+SMOTE
+
